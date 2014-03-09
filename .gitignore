@@ -3,3 +3,5 @@ build.log
 tmp
 ._*
 .DS_Store
+.settings
+.project
