@@ -1,0 +1,1 @@
+// a goo place to define all globals, like components, packages, etc.
